@@ -1,7 +1,8 @@
 # Back-Traced Garbage Collector
 
 An experimental garbage collector for C++. It is designed for use cases where
-consistent real time performance is critical, such as games or UIs.
+consistent real time performance is critical, such as games or UIs. This is not
+an officially supported Google product.
 
 Advantages:
 
