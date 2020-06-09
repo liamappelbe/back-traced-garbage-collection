@@ -1,4 +1,4 @@
-# Back-Traced Garbage Collector
+# Back-Traced Garbage Collection
 
 An experimental garbage collector for C++. It is designed for use cases where
 consistent real time performance is critical, such as games or UIs. This is not
